@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<tns:schema xmlns:tns="http://www.w3.org/2001/XMLSchema">
+    
+    <tns:element name="matters">
+        <tns:complexType>
+            <tns:sequence>
+                <tns:element name="book" type="Book" minOccurs="0" maxOccurs="unbounded" />
+                <tns:element name="magazine" type="Magazine" minOccurs="0" maxOccurs="unbounded" />
+                <tns:element name="newspaper" type="Newspaper" minOccurs="0" maxOccurs="unbounded" /> 
+            </tns:sequence>  
+        </tns:complexType>
+    </tns:element>
+    
+    <tns:complexType name="PrintedMatter">
+        <tns:sequence>
+            <tns:element name="imprint_date" type="tns:date"/>
+            <tns:element name="publishing_house" type="PublishingHouse"/>
+            <tns:element name="number_pages" type="tns:integer"/>
+            <tns:element name="title" type="tns:string"/>
+        </tns:sequence>
+        <tns:attribute name="id" type="idMatters" use="required"/>
+    </tns:complexType>
+    
+    <tns:simpleType name="PublishingHouse">
+        <tns:restriction base="tns:string">
+            <tns:enumeration value="Williams"></tns:enumeration>
+            <tns:enumeration value="NewYorkTimes"></tns:enumeration>
+            <tns:enumeration value="Piter"></tns:enumeration>
+            <tns:enumeration value="DailyMail"></tns:enumeration>
+            <tns:enumeration value="Science"></tns:enumeration>
+            <tns:enumeration value="Esquire"></tns:enumeration>
+            <tns:enumeration value="Vogue"></tns:enumeration>
+        </tns:restriction>
+    </tns:simpleType>
+    
+    <tns:simpleType name="idMatters">
+        <tns:restriction base="tns:ID">
+            <tns:pattern value="[a-zA-z]{1}[0-9]{1,7}"/>
+        </tns:restriction>
+    </tns:simpleType>
+    
+    <tns:complexType name="Periodical">
+        <tns:complexContent>
+            <tns:extension base="PrintedMatter">
+                <tns:sequence>
+                    <tns:element name="number" type="Number" />
+                    <tns:element name="periodicity" type="tns:integer" />
+                    <tns:element name="redactor" type="tns:string" />
+                </tns:sequence>
+            </tns:extension>
+        </tns:complexContent>	
+    </tns:complexType>
+    
+    <tns:simpleType name="Number">
+        <tns:restriction base="tns:string">
+            <tns:pattern value="№[0-9]{1,5}"/>
+        </tns:restriction>
+    </tns:simpleType>
+    
+    <tns:complexType name="Magazine">
+        <tns:complexContent>
+            <tns:extension base="Periodical">
+            </tns:extension>
+        </tns:complexContent>	
+    </tns:complexType>
+    
+    <tns:complexType name="Newspaper">
+        <tns:complexContent>
+            <tns:extension base="Periodical">
+                <tns:sequence>
+                    <tns:element name="topicality" type="tns:integer" />
+                </tns:sequence>
+            </tns:extension>
+        </tns:complexContent>	
+    </tns:complexType>
+    
+    <tns:complexType name="Book">
+        <tns:complexContent>
+            <tns:extension base="PrintedMatter">
+                <tns:sequence>
+                    <tns:element name="author" type="tns:string" />
+                </tns:sequence>
+            </tns:extension>
+        </tns:complexContent>	
+    </tns:complexType>
+        
+</tns:schema>
+

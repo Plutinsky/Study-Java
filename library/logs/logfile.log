@@ -1,0 +1,179 @@
+﻿ INFO [main]  -by.plutinsky.library.Library - (Library.java:36) - sssssssssssssssssss
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - fgdgsdgsgfs
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - fgdgsdgsgfs
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - fgdgsdgsgfs
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:36) - sssssssssssssssssss
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - fgdgsdgsgfs
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - fgdgsdgsgfs
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - fgdgsdgsgfs
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:21) - SAX
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:25) - Stax
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:28) - DOM
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:21) - SAX
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:25) - Stax
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:28) - DOM
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:21) - SAX
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:25) - Stax
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:28) - DOM
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:21) - SAX
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:25) - Stax
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:28) - DOM
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:21) - SAX
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:25) - Stax
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:28) - DOM
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:21) - SAX
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:25) - Stax
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:28) - DOM
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:21) - SAX
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:25) - Stax
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}
+ INFO [main]  -by.plutinsky.creator.Creator - (Creator.java:28) - DOM
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.matter.Book
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Author=Eckel, ImprintDate=1999-11-23, PublishingHouse=Piter, Id=k503, NumberPage=452, Title=Java}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Magazine
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Number=№3, ImprintDate=2012-01-13, PublishingHouse=Science, Periodicity=4, Id=h324, NumberPage=122, Title=Math, Redactor=Petrov}
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:37) - by.plutinsky.periodical.Newspaper
+ INFO [main]  -by.plutinsky.library.Library - (Library.java:38) - {Topicality=3, Number=№4, ImprintDate=2012-10-23, PublishingHouse=DailyMail, Periodicity=3, Id=q111, NumberPage=23, Title=News today, Redactor=Sidorov}

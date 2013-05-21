@@ -1,0 +1,347 @@
+ INFO [Thread-950]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 950 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-956]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 956 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-954]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 954 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-957]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 957 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-952]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 952 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-958]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 958 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-953]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 953 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-959]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 959 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-955]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 955 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-960]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 960 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-956]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 956 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-961]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 961 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-957]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 957 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-962]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 962 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-958]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 958 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-963]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 963 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-960]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 960 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-964]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 964 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-959]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 959 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-965]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 965 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-962]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 962 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-966]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 966 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-961]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 961 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-967]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 967 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-964]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 964 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-968]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 968 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-965]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 965 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-969]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 969 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-963]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 963 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-970]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 970 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-969]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 969 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-971]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 971 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-967]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 967 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-972]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 972 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-966]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 966 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-973]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 973 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-968]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 968 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-974]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 974 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-970]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 970 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-975]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 975 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-972]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 972 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-976]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 976 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-973]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 973 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-977]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 977 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-971]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 971 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-978]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 978 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-974]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 974 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-979]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 979 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-975]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 975 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-980]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 980 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-980]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 980 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-981]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 981 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-976]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 976 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-982]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 982 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-977]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 977 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-983]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 983 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-978]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 978 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-984]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 984 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-979]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 979 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-985]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 985 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-981]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 981 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-986]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 986 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-984]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 984 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-987]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 987 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-985]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 985 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-988]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 988 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-982]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 982 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-989]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 989 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-983]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 983 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-990]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 990 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-986]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 986 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-991]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 991 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-990]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 990 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-992]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 992 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-988]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 988 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-993]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 993 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-987]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 987 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-994]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 994 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-989]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 989 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-995]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 995 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-991]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 991 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-996]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 996 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-992]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 992 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-997]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 997 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-995]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 995 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-998]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 998 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-994]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 994 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-999]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 999 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-993]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 993 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1000]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 1000 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-997]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 997 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-996]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 996 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1000]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 1000 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-999]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 999 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-998]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 998 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 0 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 1 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 2 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 3 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 4 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 2 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 6 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 0 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 5 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 4 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 7 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 3 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 8 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 1 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 10 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 6 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 9 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 7 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 11 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 8 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 12 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 5 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 13 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 12 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 14 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 9 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 15 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 10 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 16 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 11 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 17 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 13 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 18 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 15 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 19 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 14 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 20 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 18 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 16 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 17 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 20 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 19 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 0 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 5 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 1 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 2 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 3 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 2 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 4 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 1 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 6 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 5 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 8 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 0 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 7 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 3 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 10 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 8 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 9 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 4 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 12 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 7 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 11 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 10 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 13 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 6 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 14 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 12 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 15 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 9 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 16 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 11 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 18 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 14 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 17 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 13 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 20 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 15 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 19 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 18 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 20 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 16 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 17 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 19 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 1 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 4 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 2 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 0 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 3 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 3 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 6 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 1 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 5 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 0 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 8 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 2 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 7 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 4 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 9 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 7 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 10 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 6 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 11 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 8 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 12 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 9 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 13 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 5 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 14 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 11 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 15 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 12 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 16 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 13 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 17 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 10 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 18 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 14 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 19 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 17 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 20 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 15 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 16 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 18 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 20 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 19 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 0 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 2 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 1 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 3 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 4 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 3 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 5 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 2 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 7 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 0 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 6 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 1 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 8 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 4 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 9 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 8 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 10 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 7 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 11 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 9 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 12 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 6 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 5 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 13 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 14 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 11 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 15 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 12 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 16 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 10 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 17 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 15 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 18 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 14 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 19 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 13 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 20 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 17 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 19 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 16 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 20 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 18 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 0 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 7 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 5 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 3 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 1 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 5 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 2 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 0 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 11 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 1 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 13 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 7 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 15 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 3 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 9 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 2 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 17 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 11 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 19 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 15 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 4 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 9 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 6 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 13 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 8 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 17 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 10 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 4 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 14 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 19 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 18 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 6 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 16 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 14 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 12 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 18 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 20 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 8 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 10 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 16 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 20 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 12 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 0 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 7 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 5 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 3 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 1 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-0]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 0 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 9 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-3]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 3 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 2 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-7]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 7 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 4 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-1]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 1 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 6 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-5]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 5 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 11 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-9]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 9 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 13 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-2]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 2 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 15 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-6]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 6 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 17 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-11]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 11 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 19 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-13]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 13 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 8 reading book: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-15]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 15 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 10 reading book: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-4]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 4 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 12 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-19]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 19 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 14 reading book: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-17]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 17 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 16 reading book: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-12]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 12 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 18 reading book: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-8]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 8 have finished reading: ID: 1 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:27) - reader with id: 20 reading book: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-10]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 10 have finished reading: ID: 3 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-14]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 14 have finished reading: ID: 2 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-16]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 16 have finished reading: ID: 4 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-18]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 18 have finished reading: ID: 0 Name: kniga Author: author NumberOfPages 123 Genre DRAMA
+ INFO [Thread-20]  -by.plutinsky.resourcespool.readers.Readers - (Readers.java:31) - reader with id: 20 have finished reading: ID: 5 Name: kniga Author: author NumberOfPages 123 Genre DRAMA

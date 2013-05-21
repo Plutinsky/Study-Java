@@ -1,0 +1,1770 @@
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элементу 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - массива 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - с
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - который 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - содержит 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - один 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элемент
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Однако пример, приве-денный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой провер-кой аргументов на допустиые значения перед выполнением операций. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Однако 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - пример
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приве
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - денный 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - носит 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - чисто 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - демонстративный 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - характер 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - не 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - является 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - образцом 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - хорошего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кода
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - так 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - как 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - этой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - было 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обойтись 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - простой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - провер
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - аргументов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - допустиые 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перед 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выполнением 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - операций
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - К тому же генерация и обработка исключения – операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - К 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - тому 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - же 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерация 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработка 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - операция 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значительно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - более 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ресурсоемкая
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - чем 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - вызов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - if 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - проверки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - аргумента
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Исключения должны приме-няться только для обработки исключительных ситуаций, и если существует воз-можность обойтись без них, то следует так и поступить.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Исключения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - должны 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приме
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - няться 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключительных 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуаций
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - существует 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - воз
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можность 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обойтись 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - без 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - них
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - то 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - следует 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - так 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - поступить
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Подклассы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блоках 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - должны 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - следовать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перед 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - любым 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - из 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - их 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - суперклассов
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - иначе 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - суперкласс 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перехватывать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - эти 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:54) - Found listing!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:55) - 
+###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Операторы try можно вкладывать друг в друга. Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Операторы try можно вкладывать друг в друга. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Операторы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - вкладывать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - друг 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - друга
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - у 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - низ
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кого 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - уровня 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - нет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - раздела 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - соответствующего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникшему 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключению
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - поиск 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - развернут 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - одну 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ступень 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будут 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - проверены 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - разделы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - внешнего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - В 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - результате 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - запуска 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приложения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - a
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 0 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сгенерировано 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключе
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ние 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ArithmeticException
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - а 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - подходящий 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - его 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - является 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - внешним 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - по 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - отношению 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - к 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - месту 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Этот 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - задействован 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникшей 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключительной 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуа
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ции
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:34) - Output text!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:35) - 
+Создание собственных исключений будет рассмотрено позже в этой главе. Если в блоке try может быть сгенеририровано в разных участках кода несколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.###
+/* пример # 1 : обработка двух типов исключений: TwoException.java */ package chapt08;
+public class TwoException {
+public static void main(String[] args) { try {
+int a = (int)(Math.random() * 2); System.out.println("a = " + a); int c[] = { 1/a };
+c[a] = 71;
+} catch(ArithmeticException e) { System.err.println("деление на 0" + e);
+} catch(ArrayIndexOutOfBoundsException e) { System.err.println(
+"превышение границ массива: " + e); }//последний catch
+System.out.println("после блока try-catch");
+}
+}
+@@@Исключение деление на 0возникнет при инициализации элемента массива а0. В противном случае при а1генерируется исключение превышение границ массивапри попытке присвоить значение второму элементу массива с, который содержит только один элемент. Однако пример, приведенный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой проверкой аргументов на допустиые значения перед выполнением операций. К тому же генерация и обработка исключения операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Исключения должны применяться только для обработки исключительных ситуаций, и если существует возможность обойтись без них, то следует так и поступить.Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@Операторы try можно вкладывать друг в друга. Если у оператора try низкого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.В результате запуска приложения при a0 будет сгенерировано исключение ArithmeticException, а подходящий для его обработки блок trycatch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуации.
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:37) - !!!!!!!!!!!!!!!!!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:42) - 
+Операторы try можно вкладывать друг в друга. Создание собственных исключений будет рассмотрено позже в этой главе. Этот блок и будет задействован для обработки возникшей исключительной ситуации.Исключение деление на 0возникнет при инициализации элемента массива а0. К тому же генерация и обработка исключения операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.Исключения должны применяться только для обработки исключительных ситуаций, и если существует возможность обойтись без них, то следует так и поступить.В противном случае при а1генерируется исключение превышение границ массивапри попытке присвоить значение второму элементу массива с, который содержит только один элемент. Если у оператора try низкого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.В результате запуска приложения при a0 будет сгенерировано исключение ArithmeticException, а подходящий для его обработки блок trycatch является внешним по отношению к месту генерации исключения. Если в блоке try может быть сгенеририровано в разных участках кода несколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.Однако пример, приведенный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой проверкой аргументов на допустиые значения перед выполнением операций. 
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:29) - This text input user!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:30) - 
+﻿Создание собственных исключений будет рассмотрено позже в этой главе. 
+Если в блоке try может быть сгенеририровано в разных участках кода не-сколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.
+###
+/* пример # 1 : обработка двух типов исключений: TwoException.java */ package chapt08;
+public class TwoException {
+public static void main(String[] args) { try {
+int a = (int)(Math.random() * 2); System.out.println("a = " + a); int c[] = { 1/a };
+c[a] = 71;
+} catch(ArithmeticException e) { System.err.println("деление на 0" + e);
+} catch(ArrayIndexOutOfBoundsException e) { System.err.println(
+"превышение границ массива: " + e); }//последний catch
+System.out.println("после блока try-catch");
+}
+}
+@@@
+Исключение "деление на 0" возникнет при инициализации элемента мас-сива а=0. В противном случае (при а=1) генерируется исключение "превыше-ние границ массива" при попытке присвоить значение второму элементу массива с[], который содержит только один элемент. Однако пример, приве-денный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой провер-кой аргументов на допустиые значения перед выполнением операций. К тому же генерация и обработка исключения – операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Исключения должны приме-няться только для обработки исключительных ситуаций, и если существует воз-можность обойтись без них, то следует так и поступить.
+Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@
+Операторы try можно вкладывать друг в друга. Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+Третий подход к обработке исключений будет рассмотрен ниже на примере создания пользовательских исключений.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - ﻿Создание собственных исключений будет рассмотрено позже в этой главе. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - ﻿Создание собственных исключений будет рассмотрено позже в этой главе. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Создание 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - собственных 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - рассмотрено 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - позже 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - этой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - главе
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Если в блоке try может быть сгенеририровано в разных участках кода не-сколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Если в блоке try может быть сгенеририровано в разных участках кода не-сколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блоке 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - может 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - быть 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сгенеририровано 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - разных 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - участках 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кода 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - не
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сколько 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - типов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - то 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - необходимо 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - наличие 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - нескольких 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блоков 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - не 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обрабатывает 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - все 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - типы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:54) - Found listing!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:55) - 
+###
+/* пример # 1 : обработка двух типов исключений: TwoException.java */ package chapt08;
+public class TwoException {
+public static void main(String[] args) { try {
+int a = (int)(Math.random() * 2); System.out.println("a = " + a); int c[] = { 1/a };
+c[a] = 71;
+} catch(ArithmeticException e) { System.err.println("деление на 0" + e);
+} catch(ArrayIndexOutOfBoundsException e) { System.err.println(
+"превышение границ массива: " + e); }//последний catch
+System.out.println("после блока try-catch");
+}
+}
+@@@
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Исключение "деление на 0" возникнет при инициализации элемента мас-сива а=0. В противном случае (при а=1) генерируется исключение "превыше-ние границ массива" при попытке присвоить значение второму элементу массива с[], который содержит только один элемент. Однако пример, приве-денный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой провер-кой аргументов на допустиые значения перед выполнением операций. К тому же генерация и обработка исключения – операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Исключения должны приме-няться только для обработки исключительных ситуаций, и если существует воз-можность обойтись без них, то следует так и поступить.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Исключение "деление на 0" возникнет при инициализации элемента мас-сива а=0. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Исключение 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - деление 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 0
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникнет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - инициализации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элемента 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - мас
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сива 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - а
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 0
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - В противном случае (при а=1) генерируется исключение "превыше-ние границ массива" при попытке присвоить значение второму элементу массива с[], который содержит только один элемент. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - В 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - противном 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - случае 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - а
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 1
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерируется 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключение 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - превыше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ние 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - границ 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - массива
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - попытке 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - присвоить 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значение 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - второму 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элементу 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - массива 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - с
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - который 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - содержит 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - один 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элемент
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Однако пример, приве-денный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой провер-кой аргументов на допустиые значения перед выполнением операций. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Однако 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - пример
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приве
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - денный 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - носит 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - чисто 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - демонстративный 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - характер 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - не 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - является 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - образцом 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - хорошего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кода
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - так 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - как 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - этой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - было 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обойтись 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - простой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - провер
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - аргументов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - допустиые 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перед 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выполнением 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - операций
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - К тому же генерация и обработка исключения – операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - К 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - тому 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - же 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерация 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработка 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - операция 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значительно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - более 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ресурсоемкая
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - чем 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - вызов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - if 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - проверки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - аргумента
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Исключения должны приме-няться только для обработки исключительных ситуаций, и если существует воз-можность обойтись без них, то следует так и поступить.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Исключения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - должны 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приме
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - няться 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключительных 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуаций
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - существует 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - воз
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можность 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обойтись 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - без 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - них
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - то 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - следует 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - так 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - поступить
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Подклассы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блоках 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - должны 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - следовать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перед 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - любым 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - из 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - их 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - суперклассов
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - иначе 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - суперкласс 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перехватывать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - эти 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:54) - Found listing!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:55) - 
+###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Операторы try можно вкладывать друг в друга. Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Операторы try можно вкладывать друг в друга. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Операторы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - вкладывать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - друг 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - друга
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - у 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - низ
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кого 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - уровня 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - нет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - раздела 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - соответствующего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникшему 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключению
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - поиск 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - развернут 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - одну 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ступень 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будут 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - проверены 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - разделы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - внешнего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - В 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - результате 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - запуска 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приложения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - a
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 0 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сгенерировано 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключе
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ние 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ArithmeticException
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - а 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - подходящий 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - его 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - является 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - внешним 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - по 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - отношению 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - к 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - месту 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Этот 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - задействован 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникшей 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключительной 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуа
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ции
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:34) - Output text!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:35) - 
+Создание собственных исключений будет рассмотрено позже в этой главе. Если в блоке try может быть сгенеририровано в разных участках кода несколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.###
+/* пример # 1 : обработка двух типов исключений: TwoException.java */ package chapt08;
+public class TwoException {
+public static void main(String[] args) { try {
+int a = (int)(Math.random() * 2); System.out.println("a = " + a); int c[] = { 1/a };
+c[a] = 71;
+} catch(ArithmeticException e) { System.err.println("деление на 0" + e);
+} catch(ArrayIndexOutOfBoundsException e) { System.err.println(
+"превышение границ массива: " + e); }//последний catch
+System.out.println("после блока try-catch");
+}
+}
+@@@Исключение деление на 0возникнет при инициализации элемента массива а0. В противном случае при а1генерируется исключение превышение границ массивапри попытке присвоить значение второму элементу массива с, который содержит только один элемент. Однако пример, приведенный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой проверкой аргументов на допустиые значения перед выполнением операций. К тому же генерация и обработка исключения операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Исключения должны применяться только для обработки исключительных ситуаций, и если существует возможность обойтись без них, то следует так и поступить.Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@Операторы try можно вкладывать друг в друга. Если у оператора try низкого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.В результате запуска приложения при a0 будет сгенерировано исключение ArithmeticException, а подходящий для его обработки блок trycatch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуации.
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:37) - Sorted sentance!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:42) - 
+Операторы try можно вкладывать друг в друга. Создание собственных исключений будет рассмотрено позже в этой главе. Этот блок и будет задействован для обработки возникшей исключительной ситуации.Исключение деление на 0возникнет при инициализации элемента массива а0. К тому же генерация и обработка исключения операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.Исключения должны применяться только для обработки исключительных ситуаций, и если существует возможность обойтись без них, то следует так и поступить.В противном случае при а1генерируется исключение превышение границ массивапри попытке присвоить значение второму элементу массива с, который содержит только один элемент. Если у оператора try низкого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.В результате запуска приложения при a0 будет сгенерировано исключение ArithmeticException, а подходящий для его обработки блок trycatch является внешним по отношению к месту генерации исключения. Если в блоке try может быть сгенеририровано в разных участках кода несколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.Однако пример, приведенный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой проверкой аргументов на допустиые значения перед выполнением операций. 
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:29) - This text input user!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:30) - 
+﻿Создание собственных исключений будет рассмотрено позже в этой главе. 
+Если в блоке try может быть сгенеририровано в разных участках кода не-сколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.
+###
+/* пример # 1 : обработка двух типов исключений: TwoException.java */ package chapt08;
+public class TwoException {
+public static void main(String[] args) { try {
+int a = (int)(Math.random() * 2); System.out.println("a = " + a); int c[] = { 1/a };
+c[a] = 71;
+} catch(ArithmeticException e) { System.err.println("деление на 0" + e);
+} catch(ArrayIndexOutOfBoundsException e) { System.err.println(
+"превышение границ массива: " + e); }//последний catch
+System.out.println("после блока try-catch");
+}
+}
+@@@
+Исключение "деление на 0" возникнет при инициализации элемента мас-сива а=0. В противном случае (при а=1) генерируется исключение "превыше-ние границ массива" при попытке присвоить значение второму элементу массива с[], который содержит только один элемент. Однако пример, приве-денный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой провер-кой аргументов на допустиые значения перед выполнением операций. К тому же генерация и обработка исключения – операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Исключения должны приме-няться только для обработки исключительных ситуаций, и если существует воз-можность обойтись без них, то следует так и поступить.
+Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@
+Операторы try можно вкладывать друг в друга. Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+Третий подход к обработке исключений будет рассмотрен ниже на примере создания пользовательских исключений.
+
+
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - ﻿Создание собственных исключений будет рассмотрено позже в этой главе. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - ﻿Создание собственных исключений будет рассмотрено позже в этой главе. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Создание 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - собственных 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - рассмотрено 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - позже 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - этой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - главе
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Если в блоке try может быть сгенеририровано в разных участках кода не-сколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Если в блоке try может быть сгенеририровано в разных участках кода не-сколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блоке 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - может 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - быть 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сгенеририровано 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - разных 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - участках 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кода 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - не
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сколько 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - типов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - то 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - необходимо 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - наличие 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - нескольких 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блоков 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - не 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обрабатывает 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - все 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - типы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:54) - Found listing!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:55) - 
+###
+/* пример # 1 : обработка двух типов исключений: TwoException.java */ package chapt08;
+public class TwoException {
+public static void main(String[] args) { try {
+int a = (int)(Math.random() * 2); System.out.println("a = " + a); int c[] = { 1/a };
+c[a] = 71;
+} catch(ArithmeticException e) { System.err.println("деление на 0" + e);
+} catch(ArrayIndexOutOfBoundsException e) { System.err.println(
+"превышение границ массива: " + e); }//последний catch
+System.out.println("после блока try-catch");
+}
+}
+@@@
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Исключение "деление на 0" возникнет при инициализации элемента мас-сива а=0. В противном случае (при а=1) генерируется исключение "превыше-ние границ массива" при попытке присвоить значение второму элементу массива с[], который содержит только один элемент. Однако пример, приве-денный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой провер-кой аргументов на допустиые значения перед выполнением операций. К тому же генерация и обработка исключения – операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Исключения должны приме-няться только для обработки исключительных ситуаций, и если существует воз-можность обойтись без них, то следует так и поступить.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Исключение "деление на 0" возникнет при инициализации элемента мас-сива а=0. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Исключение 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - деление 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 0
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникнет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - инициализации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элемента 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - мас
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сива 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - а
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 0
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - В противном случае (при а=1) генерируется исключение "превыше-ние границ массива" при попытке присвоить значение второму элементу массива с[], который содержит только один элемент. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - В 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - противном 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - случае 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - а
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 1
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерируется 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключение 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - превыше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ние 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - границ 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - массива
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - попытке 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - присвоить 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значение 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - второму 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элементу 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - массива 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - с
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - который 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - содержит 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - один 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - элемент
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Однако пример, приве-денный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой провер-кой аргументов на допустиые значения перед выполнением операций. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Однако 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - пример
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приве
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - денный 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - носит 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - чисто 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - демонстративный 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - характер 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - не 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - является 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - образцом 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - хорошего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кода
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - так 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - как 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - этой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - было 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обойтись 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - простой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - провер
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кой 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - аргументов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - допустиые 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перед 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выполнением 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - операций
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - К тому же генерация и обработка исключения – операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - К 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - тому 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - же 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерация 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработка 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - операция 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - значительно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - более 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ресурсоемкая
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - чем 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - вызов 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - if 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - проверки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - аргумента
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Исключения должны приме-няться только для обработки исключительных ситуаций, и если существует воз-можность обойтись без них, то следует так и поступить.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Исключения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - должны 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приме
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - няться 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - только 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключительных 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуаций
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - существует 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - воз
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можность 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обойтись 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - без 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - них
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - то 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - следует 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - так 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - поступить
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Подклассы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блоках 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - должны 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - следовать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перед 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - любым 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - из 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - их 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - суперклассов
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - иначе 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - суперкласс 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - перехватывать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - эти 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:54) - Found listing!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:55) - 
+###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Операторы try можно вкладывать друг в друга. Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Операторы try можно вкладывать друг в друга. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Операторы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - можно 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - вкладывать 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - друг 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - в 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - друга
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Если у оператора try низ-кого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Если 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - у 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - низ
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - кого 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - уровня 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - нет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - раздела 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - соответствующего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникшему 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключению
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - поиск 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - развернут 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - одну 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ступень 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - выше
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будут 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - проверены 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - разделы 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - внешнего 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - оператора 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - В результате запуска приложения при a=0 будет сгенерировано исключе-ние ArithmeticException, а подходящий для его обработки блок try– catch является внешним по отношению к месту генерации исключения. 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - В 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - результате 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - запуска 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - приложения 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - при 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - a
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - 0 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - сгенерировано 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключе
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ние 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ArithmeticException
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - , 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - а 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - подходящий 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - его 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - try
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - catch 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - является 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - внешним 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - по 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - отношению 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - к 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - месту 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - генерации 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключения
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - . 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Этот блок и будет задействован для обработки возникшей исключительной ситуа-ции.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Этот 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - блок 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - и 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - задействован 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - для 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработки 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - возникшей 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключительной 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ситуа
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ции
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:43) - Found paragraph!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:44) - Третий подход к обработке исключений будет рассмотрен ниже на примере создания пользовательских исключений.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:71) - Found sentance!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:72) - Третий подход к обработке исключений будет рассмотрен ниже на примере создания пользовательских исключений.
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - Третий 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - подход 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - к 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - обработке 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - будет 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - рассмотрен 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - ниже 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - на 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - примере 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - создания 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - пользовательских 
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:90) - Found word!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:91) - исключений
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:100) - Found punctuation!
+ INFO [main]  -by.plutinsky.parsingtext.ParsingText - (ParsingText.java:101) - .
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:34) - Output text!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:35) - 
+Создание собственных исключений будет рассмотрено позже в этой главе. Если в блоке try может быть сгенеририровано в разных участках кода несколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.###
+/* пример # 1 : обработка двух типов исключений: TwoException.java */ package chapt08;
+public class TwoException {
+public static void main(String[] args) { try {
+int a = (int)(Math.random() * 2); System.out.println("a = " + a); int c[] = { 1/a };
+c[a] = 71;
+} catch(ArithmeticException e) { System.err.println("деление на 0" + e);
+} catch(ArrayIndexOutOfBoundsException e) { System.err.println(
+"превышение границ массива: " + e); }//последний catch
+System.out.println("после блока try-catch");
+}
+}
+@@@Исключение деление на 0возникнет при инициализации элемента массива а0. В противном случае при а1генерируется исключение превышение границ массивапри попытке присвоить значение второму элементу массива с, который содержит только один элемент. Однако пример, приведенный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой проверкой аргументов на допустиые значения перед выполнением операций. К тому же генерация и обработка исключения операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Исключения должны применяться только для обработки исключительных ситуаций, и если существует возможность обойтись без них, то следует так и поступить.Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.###
+Например: try {/*код, который может вызвать исключение*/} 
+catch(RuntimeException e) { /* суперкласс RuntimeException
+перехватит объекты всех своих подклассов */
+} catch(ArithmeticException e) {} /* не может быть вызван,
+поэтому возникает ошибка компиляции */
+@@@Операторы try можно вкладывать друг в друга. Если у оператора try низкого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.В результате запуска приложения при a0 будет сгенерировано исключение ArithmeticException, а подходящий для его обработки блок trycatch является внешним по отношению к месту генерации исключения. Этот блок и будет задействован для обработки возникшей исключительной ситуации.Третий подход к обработке исключений будет рассмотрен ниже на примере создания пользовательских исключений.
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:37) - Sorted sentance!
+ INFO [main]  -by.plutinsky.creatortextparser.Creator - (Creator.java:42) - 
+Операторы try можно вкладывать друг в друга. Создание собственных исключений будет рассмотрено позже в этой главе. Этот блок и будет задействован для обработки возникшей исключительной ситуации.Исключение деление на 0возникнет при инициализации элемента массива а0. Третий подход к обработке исключений будет рассмотрен ниже на примере создания пользовательских исключений.К тому же генерация и обработка исключения операция значительно более ресурсоемкая, чем вызов оператора if для проверки аргумента. Подклассы исключений в блоках catch должны следовать перед любым из их суперклассов, иначе суперкласс будет перехватывать эти исключения.Исключения должны применяться только для обработки исключительных ситуаций, и если существует возможность обойтись без них, то следует так и поступить.В противном случае при а1генерируется исключение превышение границ массивапри попытке присвоить значение второму элементу массива с, который содержит только один элемент. Если у оператора try низкого уровня нет раздела catch, соответствующего возникшему исключению, поиск будет развернут на одну ступень выше, и будут проверены разделы catch внешнего оператора try.В результате запуска приложения при a0 будет сгенерировано исключение ArithmeticException, а подходящий для его обработки блок trycatch является внешним по отношению к месту генерации исключения. Если в блоке try может быть сгенеририровано в разных участках кода несколько типов исключений, то необходимо наличие нескольких блоков catch, если только блок catch не обрабатывает все типы исключений.Однако пример, приведенный выше, носит чисто демонстративный характер и не является образцом хорошего кода, так как в этой ситуации можно было обойтись простой проверкой аргументов на допустиые значения перед выполнением операций. 

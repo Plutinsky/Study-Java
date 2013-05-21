@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<matters xmlns:xtns="http://www.w3.org/2001/XMLSchema-instance" xtns:noNamespaceSchemaLocation="matters.xsd">
+    <book id = "k503">
+        <imprint_date>1999-11-23</imprint_date>
+        <publishing_house>Piter</publishing_house>
+        <number_pages>452</number_pages>
+        <title>Java</title>
+        <author>Eckel</author>
+    </book>
+    
+    <magazine id="h324">	
+        <imprint_date>2012-01-13</imprint_date>
+        <publishing_house>Science</publishing_house>
+        <number_pages>122</number_pages>
+        <title>Math</title>
+        <number>№3</number>
+        <periodicity>4</periodicity>
+        <redactor>Petrov</redactor>
+    </magazine>	
+    
+     <newspaper id="q111">
+         <imprint_date>2012-10-23</imprint_date>
+         <publishing_house>DailyMail</publishing_house>
+         <number_pages>23</number_pages>
+         <title>News today</title>
+         <number>№4</number>
+         <periodicity>3</periodicity>
+         <redactor>Sidorov</redactor>
+         <topicality>3</topicality>
+     </newspaper>                                                                  									
+</matters>	
